@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CrystalFullFramework/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/CrystalFullFramework.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CrystalFullFramework.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrystalFullFramework/1.0.0": {
+      "type": "project",
+      "path": "../CrystalFullFramework/CrystalFullFramework.csproj",
+      "msbuildProject": "../CrystalFullFramework/CrystalFullFramework.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CrystalFullFramework >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\jahangir\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "D:\\KironMala\\Project-47 (10)\\Project-47\\CrytalSupportedLibrary\\CrytalSupportedLibrary.csproj",
+      "projectName": "CrytalSupportedLibrary",
+      "projectPath": "D:\\KironMala\\Project-47 (10)\\Project-47\\CrytalSupportedLibrary\\CrytalSupportedLibrary.csproj",
+      "packagesPath": "C:\\Users\\jahangir\\.nuget\\packages\\",
+      "outputPath": "D:\\KironMala\\Project-47 (10)\\Project-47\\CrytalSupportedLibrary\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\jahangir\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "D:\\KironMala\\Project-47 (10)\\Project-47\\CrystalFullFramework\\CrystalFullFramework.csproj": {
+              "projectPath": "D:\\KironMala\\Project-47 (10)\\Project-47\\CrystalFullFramework\\CrystalFullFramework.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.101\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

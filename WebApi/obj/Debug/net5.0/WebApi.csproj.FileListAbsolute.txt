@@ -1,0 +1,704 @@
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\appsettings.json
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\GloceryMgt\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.exe
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.deps.json
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.pdb
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.pdb
+C:\Users\USSL\Desktop\Kaka\GloceryMgtFinal\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.pdb
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.exe
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.deps.json
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\WebApi.pdb
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\LAB-3\Desktop\GloceryMgtFinal\GloceryMgtApi\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+E:\Project-47\WebApi\bin\Debug\net5.0\appsettings.Development.json
+E:\Project-47\WebApi\bin\Debug\net5.0\appsettings.json
+E:\Project-47\WebApi\bin\Debug\net5.0\WebApi.exe
+E:\Project-47\WebApi\bin\Debug\net5.0\WebApi.deps.json
+E:\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+E:\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+E:\Project-47\WebApi\bin\Debug\net5.0\WebApi.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\WebApi.pdb
+E:\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Humanizer.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+E:\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+E:\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+E:\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+E:\Project-47\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.dll
+E:\Project-47\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.pdb
+E:\Project-47\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\47\Project-47\WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\47\Project-47\WebApi\bin\Debug\net5.0\appsettings.json
+D:\47\Project-47\WebApi\bin\Debug\net5.0\WebApi.StaticWebAssets.xml
+D:\47\Project-47\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\47\Project-47\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\47\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\47\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\47\Project-47\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\47\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\47\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\47\Project-47\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\47\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\47\Project-47\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\47\Project-47\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\appsettings.json
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+D:\47-Round\47FinalProject\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\appsettings.json
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\WebApi.StaticWebAssets.xml
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\JJaha47\Project-47 (4)\Project-47\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\appsettings.json
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\WebApi.exe
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\WebApi.deps.json
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\WebApi.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\WebApi.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Humanizer.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Options.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Primitives.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.xml
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Windows.Forms.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Accessibility.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Deployment.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Serialization.Formatters.Soap.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Windows.Forms.xml
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\Accessibility.xml
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Deployment.xml
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Serialization.Formatters.Soap.xml
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalFullFramework.exe
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrytalSupportedLibrary.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.Shared.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportSource.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrytalSupportedLibrary.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalFullFramework.pdb
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalFullFramework.exe.config
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.Windows.Forms.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\AxShockwaveFlashObjects.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\ShockwaveFlashObjects.dll
+C:\Users\USSL\Desktop\Project-47 (6) (2)\Project-47\WebApi\bin\Debug\net5.0\stdole.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\appsettings.Development.json
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\appsettings.json
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\WebApi.StaticWebAssets.xml
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\WebApi.exe
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\WebApi.deps.json
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.json
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\WebApi.runtimeconfig.dev.json
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\WebApi.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\ref\WebApi.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\WebApi.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Humanizer.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\System.Runtime.Caching.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalFullFramework.exe
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrytalSupportedLibrary.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.CrystalReports.Engine.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.Windows.Forms.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.Shared.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportSource.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\AxShockwaveFlashObjects.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\ShockwaveFlashObjects.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\stdole.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrytalSupportedLibrary.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalFullFramework.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\bin\Debug\net5.0\CrystalFullFramework.exe.config
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.AssemblyReference.cache
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfoInputs.cache
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.AssemblyInfo.cs
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CoreCompileInputs.cache
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cs
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.MvcApplicationPartsAssemblyInfo.cache
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\scopedcss\bundle\WebApi.styles.css
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\staticwebassets\WebApi.StaticWebAssets.Manifest.cache
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.RazorTargetAssemblyInfo.cache
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.csproj.CopyComplete
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\ref\WebApi.dll
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.pdb
+D:\KironMala\Project-47 (10)\Project-47\WebApi\obj\Debug\net5.0\WebApi.genruntimeconfig.cache

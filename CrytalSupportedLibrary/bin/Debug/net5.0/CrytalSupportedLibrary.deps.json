@@ -1,0 +1,283 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CrytalSupportedLibrary/1.0.0": {
+        "dependencies": {
+          "CrystalFullFramework": "1.0.0"
+        },
+        "runtime": {
+          "CrytalSupportedLibrary.dll": {}
+        }
+      },
+      "CrystalFullFramework/1.0.0": {
+        "runtime": {
+          "CrystalFullFramework.exe": {}
+        }
+      },
+      "CrystalDecisions.CrystalReports.Engine/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.CrystalReports.Engine.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.Windows.Forms/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.Windows.Forms.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.Shared/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.Shared.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportSource/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportSource.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.DataDefModel/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.DataDefModel.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.ClientDoc/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.ClientDoc.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.ReportDefModel/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.ReportDefModel.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.Controllers/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.Controllers.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.CommLayer/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.CommLayer.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.DataSetConversion/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.DataSetConversion.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.Prompting/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.Prompting.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.XmlSerialize/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.XmlSerialize.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.CubeDefModel/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.CubeDefModel.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.CommonObjectModel/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.CommonObjectModel.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.ObjectFactory/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.ObjectFactory.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "AxShockwaveFlashObjects/1.0.0.0": {
+        "runtime": {
+          "AxShockwaveFlashObjects.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "CrystalDecisions.ReportAppServer.CommonControls/13.0.4000.0": {
+        "runtime": {
+          "CrystalDecisions.ReportAppServer.CommonControls.dll": {
+            "assemblyVersion": "13.0.4000.0",
+            "fileVersion": "13.0.31.4010"
+          }
+        }
+      },
+      "ShockwaveFlashObjects/1.0.0.0": {
+        "runtime": {
+          "ShockwaveFlashObjects.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "stdole/7.0.3300.0": {
+        "runtime": {
+          "stdole.dll": {
+            "assemblyVersion": "7.0.3300.0",
+            "fileVersion": "7.0.9466.1"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CrytalSupportedLibrary/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalFullFramework/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.CrystalReports.Engine/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.Windows.Forms/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.Shared/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportSource/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.DataDefModel/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.ClientDoc/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.ReportDefModel/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.Controllers/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.CommLayer/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.DataSetConversion/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.Prompting/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.XmlSerialize/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.CubeDefModel/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.CommonObjectModel/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.ObjectFactory/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AxShockwaveFlashObjects/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CrystalDecisions.ReportAppServer.CommonControls/13.0.4000.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ShockwaveFlashObjects/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "stdole/7.0.3300.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
